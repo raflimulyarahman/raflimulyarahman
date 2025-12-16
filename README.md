@@ -11,7 +11,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rafli-mulyarahman-9277312b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mulyarahman32@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/rafli_mulyaa"><img src="https://img.shields.io/badge/X-@rafli__mulyaa-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/rafli_mulyaa">
+  <img src="https://img.shields.io/badge/@rafli_mulyaa-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
   <a href="https://github.com/raflimulyarahman"><img src="https://komarev.com/ghpvc/?username=raflimulyarahman&color=00C2FF&style=for-the-badge" /></a>
 </p>
 
